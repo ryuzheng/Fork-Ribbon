@@ -1,0 +1,14 @@
+body {
+  margin: 0 auto;
+  margin-top: 200px;
+  font-family: "微软雅黑";
+}
+body h1 {
+  color: #3e97eb;
+  text-align: center;
+  font-size: 6rem;
+}
+body h2 {
+  text-align: center;
+  font-size: 2rem;
+}
