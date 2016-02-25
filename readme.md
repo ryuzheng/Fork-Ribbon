@@ -2,7 +2,7 @@
 
 ## Demo 
 
-## [demo](https://github.com/ryuzheng/Fork-Ribbon)
+## [demo](http://htmlpreview.github.io/?https://github.com/ryuzheng/Fork-Ribbon/blob/master/index.html)
 
 ## Usage
 
