@@ -1,16 +1,13 @@
 # Fork Ribbon
-
-## Demo 
-
-## [demo](http://htmlpreview.github.io/?https://github.com/ryuzheng/Fork-Ribbon/blob/master/index.html)
-
+## Demo
+## [demo](http://ryuzheng.github.io/Fork-Ribbon)
 ## Usage
 
-``` html
+```html
 <link rel="stylesheet" href="/path/to/fork-ribbon.css">
 ```
 
-``` html
+```html
 <div class="fork-ribbon">
   <a href="https://path/to/your/project" title="Fork me on Github">Fork me on Github</a>
     <div class="fork-ribbon-logo">
@@ -18,4 +15,3 @@
   </div>
  </div>
 ```
-
