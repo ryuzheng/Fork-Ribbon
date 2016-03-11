@@ -1,0 +1,28 @@
+{
+	"name": "fork-ribbon",
+	"version": "0.0.2",
+	"description": "Add a fork me ribbon to link your project.",
+	"keywords": [
+		"css",
+		"fork",
+		"ribbon",
+		"Github",
+		"Coding",
+		"fork me on Github",
+		"fork me on Coding"
+	],
+	"homepage": "https://github.com/ryuzheng/Fork-Ribbon",
+	"bugs": {
+		"url": "https://github.com/ryuzheng/Fork-Ribbon/issues"
+	},
+	"license": "MIT",
+	"author": " <ryuzheng@foxmail.com> RyuZheng",
+	"main": "fork-ribbon.css",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ryuzheng/Fork-Ribbon.git"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
