@@ -1,0 +1,27 @@
+{
+  "name": "Fork-Ribbon",
+  "version": "0.0.1",
+  "authors": [
+    "Ryu Zheng <ryuzheng@foxmail.com>"
+  ],
+  "description": "Add a fork me ribbon to link your project.",
+  "keywords": [
+    "css",
+    "fork",
+    "ribbon",
+    "Github",
+    "Coding",
+    "fork me on Github",
+    "fork me on Coding"
+  ],
+  "main": "fork-ribbon.css",
+  "license": "MIT",
+  "homepage": "https://github.com/ryuzheng/Fork-Ribbon",
+  "ignore": [
+    "**/.*",
+    "fork-ribbon.less",
+    "index.html",
+    "main.css",
+    "main.less",
+  ]
+}
