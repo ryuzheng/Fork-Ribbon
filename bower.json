@@ -1,6 +1,6 @@
 {
   "name": "Fork-Ribbon",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": [
     "Ryu Zheng <ryuzheng@foxmail.com>"
   ],
@@ -22,6 +22,6 @@
     "fork-ribbon.less",
     "index.html",
     "main.css",
-    "main.less",
+    "main.less"
   ]
 }
