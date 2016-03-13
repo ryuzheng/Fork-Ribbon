@@ -22,8 +22,6 @@
   font-weight: bold;
   font-size: 1rem;
   line-height: 2rem;
-  -webkit-transition: 0.5s;
-          transition: 0.5s;
   -webkit-transform: rotate(45deg);
       -ms-transform: rotate(45deg);
           transform: rotate(45deg);
@@ -61,6 +59,7 @@
   height: 80px;
   pointer-events: none;
   -webkit-transform: translate3d(0, 10px, 0) rotate3d(1, 1, 1, 30deg);
+  -moz-transform: translate3d(0, 10px, 0) rotate3d(1, 1, 1, 30deg);
   -webkit-transform-origin: 50% 100%;
       -ms-transform-origin: 50% 100%;
           transform-origin: 50% 100%;
