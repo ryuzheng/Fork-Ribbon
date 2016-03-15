@@ -60,8 +60,7 @@
   height: 80px;
   pointer-events: none;
   -webkit-transform: translate3d(0, 10px, 0) rotate3d(1, 1, 1, 30deg);
-  -ms-transform: translate3d(0, 10px, 0) rotate3d(1, 1, 1, 30deg);
-  transform: translate3d(0, 10px, 0) rotate3d(1, 1, 1, 30deg);
+          transform: translate3d(0, 10px, 0) rotate3d(1, 1, 1, 30deg);
   -webkit-transform-origin: 50% 100%;
       -ms-transform-origin: 50% 100%;
           transform-origin: 50% 100%;
