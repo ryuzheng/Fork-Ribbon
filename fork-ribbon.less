@@ -5,12 +5,13 @@
   width: 200px;
   overflow: hidden;
   height: 200px;
-  z-index: 999;
+  z-index: 9998;
   a {
     position: absolute;
+    box-sizing: border-box;
     top: 60px;
     right: -60px;
-    width: 200px;
+    width: 275px;
     z-index: 9999;
     padding: 0 40px;
     background: #333;
@@ -19,8 +20,8 @@
     font-family: arial, sans-serif;
     text-align: center;
     font-weight: bold;
-    font-size: 1rem;
-    line-height: 2rem;
+    font-size: 16px;
+    line-height: 32px;
     transform: rotate(45deg);
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.8);
   }
@@ -50,17 +51,16 @@
   .fork-ribbon-logo {
     opacity: 0;
     position: absolute;
-    z-index: 99;
+    z-index: 9997;
     width: 80px;
     height: 80px;
     pointer-events: none;
-    -webkit-transform: translate3d(0, 10px, 0) rotate3d(1, 1, 1, 30deg);
-    -moz-transform: translate3d(0, 10px, 0) rotate3d(1, 1, 1, 30deg);
+    transform: translate3d(0, 10px, 0) rotate3d(1, 1, 1, 30deg);
     transform-origin: 50% 100%;
     transition: opacity 0.3s, transform 0.3s;
     img {
       position: absolute;
-      z-index: 99;
+      z-index: 9997;
       left: 100%;
       margin-left: 50px;
       bottom: 50%;
